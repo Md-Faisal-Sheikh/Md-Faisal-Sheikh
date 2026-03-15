@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Md. Faisal Sheikh
 
- CSE  at **North South University**  
+ CSE Student at **North South University**  
  Interested in **NLP and Computer Vision**   
 
 I enjoy exploring the intersection of **language, vision, and intelligence**.
@@ -29,13 +29,7 @@ I enjoy exploring the intersection of **language, vision, and intelligence**.
 - Transformer Architectures
 - Large Language Models
 - Multimodal AI
-
-Fields closely related to:
-
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-
+  
 ---
 
 #  Tech Stack
@@ -81,15 +75,7 @@ Vision Transformers
 - Self-Supervised Learning
 - Multimodal AI Systems
 
-#  Top Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 #  Philosophy
 
