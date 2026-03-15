@@ -14,9 +14,8 @@
 
 # 👋 Hi, I'm Md. Faisal Sheikh
 
- CSE Student at **North South University**  
- Interested in **NLP and Computer Vision**  
- Bangladesh  
+ CSE  at **North South University**  
+ Interested in **NLP and Computer Vision**   
 
 I enjoy exploring the intersection of **language, vision, and intelligence**.
 
@@ -82,20 +81,6 @@ Vision Transformers
 - Self-Supervised Learning
 - Multimodal AI Systems
 
----
-
-#  GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 #  Top Languages
 
 <p align="center">
@@ -103,22 +88,6 @@ Vision Transformers
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-#  Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-#  Contribution Snake
-
-![snake](https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg)
 
 ---
 
