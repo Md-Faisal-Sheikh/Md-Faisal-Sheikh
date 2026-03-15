@@ -14,16 +14,14 @@
 
 # 👋 Hello, I'm Md. Faisal Sheikh
 
-🎓 **CSE Student — North South University**  
-🤖 Passionate about **Artificial Intelligence**  
-🔬 Focused on **NLP & Computer Vision Research**  
-🌏 Based in Bangladesh  
+ **CSE Student — North South University**  
+ Passionate about **NLP & Computer Vision Research**  
 
 I enjoy building intelligent systems that combine **language understanding, visual perception, and deep learning**.
 
 ---
 
-# 🧠 Research Interests
+#  Research Interests
 
 - Natural Language Processing
 - Computer Vision
@@ -31,13 +29,6 @@ I enjoy building intelligent systems that combine **language understanding, visu
 - Deep Learning
 - Large Language Models
 - Multimodal AI
-
-Related fields:
-
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-
 ---
 
 # ⚙️ Tech Stack
@@ -52,11 +43,11 @@ Related fields:
 
 ---
 
-### AI / Machine Learning
+### Machine Learning
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jax"/>
 
 </p>
 
@@ -66,13 +57,13 @@ Related fields:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux"/>
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 - Transformer Models
 - Vision Transformers
@@ -82,55 +73,7 @@ Related fields:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📉 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg)
-
----
-
-# 📚 Selected Projects
-
-| Project | Description |
-|------|-------------|
-| NLP Text Classifier | Transformer-based text classification system |
-| Computer Vision Model | CNN-based image classification |
-| Portfolio Website | Dynamic portfolio using PHP + MySQL |
-
----
-
-# 📖 Learning Journey
+#  Learning Journey
 
 Currently studying:
 
@@ -142,21 +85,21 @@ Currently studying:
 
 ---
 
-# 💡 Philosophy
+#  Philosophy
 
 > "Artificial Intelligence should amplify human intelligence, not replace it."
 
 ---
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/md-faisal-sheikh-5a9b46265/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:faisalsheikh1279@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -164,4 +107,4 @@ Currently studying:
 
 ---
 
-⭐ Always open to **AI research collaboration, open source, and knowledge sharing.**
+ Always open to **AI research collaboration, open source, and knowledge sharing.**
