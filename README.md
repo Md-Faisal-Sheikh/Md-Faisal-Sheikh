@@ -1,89 +1,154 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.%20Faisal%20Sheikh&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e3c72,100:2a5298&text=Md.%20Faisal%20Sheikh&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Research+Enthusiast;NLP+Explorer;Computer+Vision+Learner;Deep+Learning+Student&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Research+Enthusiast;Natural+Language+Processing;Computer+Vision;Deep+Learning;Future+AI+Researcher&center=true&width=500&height=45">
 </p>
 
 ---
 
-# 👋 Hi, I'm Md. Faisal Sheikh
+# 👋 Hello, I'm Md. Faisal Sheikh
 
- CSE Student at **North South University**  
- Interested in **NLP and Computer Vision**   
+🎓 **CSE Student — North South University**  
+🤖 Passionate about **Artificial Intelligence**  
+🔬 Focused on **NLP & Computer Vision Research**  
+🌏 Based in Bangladesh  
 
-I enjoy exploring the intersection of **language, vision, and intelligence**.
+I enjoy building intelligent systems that combine **language understanding, visual perception, and deep learning**.
 
 ---
 
-# Research Interests
+# 🧠 Research Interests
 
 - Natural Language Processing
 - Computer Vision
-- Deep Learning
 - Transformer Architectures
+- Deep Learning
 - Large Language Models
 - Multimodal AI
-  
+
+Related fields:
+
+- :contentReference[oaicite:3]{index=3}  
+- :contentReference[oaicite:4]{index=4}  
+- :contentReference[oaicite:5]{index=5}  
+
 ---
 
-#  Tech Stack
+# ⚙️ Tech Stack
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql"/>
+
+</p>
 
 ---
 
-### Machine Learning
+### AI / Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=scikitlearn)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
 
-### NLP
-
-Transformers  
-Language Modeling  
-Text Classification  
-Information Retrieval  
+</p>
 
 ---
 
-### Computer Vision
+### Tools
 
-CNNs  
-Image Classification  
-Object Detection  
-Vision Transformers  
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode"/>
+
+</p>
 
 ---
 
-#  Current Learning Focus
+# 🚀 Current Focus
 
-- Transformer Architectures
+- Transformer Models
 - Vision Transformers
 - Self-Supervised Learning
-- Multimodal AI Systems
-
-
-
-#  Philosophy
-
-> "The goal of AI is not just to mimic intelligence, but to expand human capability."
+- Multimodal AI
+- LLM Architectures
 
 ---
 
-#  Connect With Me
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📉 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📚 Selected Projects
+
+| Project | Description |
+|------|-------------|
+| NLP Text Classifier | Transformer-based text classification system |
+| Computer Vision Model | CNN-based image classification |
+| Portfolio Website | Dynamic portfolio using PHP + MySQL |
+
+---
+
+# 📖 Learning Journey
+
+Currently studying:
+
+- Transformers
+- Attention Mechanisms
+- Vision Transformers
+- Multimodal Models
+- AI Research Papers
+
+---
+
+# 💡 Philosophy
+
+> "Artificial Intelligence should amplify human intelligence, not replace it."
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -91,7 +156,7 @@ Vision Transformers
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:faisalsheikh1279@gmail.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -99,4 +164,4 @@ Vision Transformers
 
 ---
 
- Always open to **collaboration, research opportunities, and AI discussions.**
+⭐ Always open to **AI research collaboration, open source, and knowledge sharing.**
