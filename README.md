@@ -7,7 +7,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Research+Enthusiast;Natural+Language+Processing;Computer+Vision;Deep+Learning;Future+AI+Researcher&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Research+Enthusiast;Natural+Language+Processing;Computer+Vision;Future+AI+Researcher&center=true&width=500&height=45">
 </p>
 
 ---
