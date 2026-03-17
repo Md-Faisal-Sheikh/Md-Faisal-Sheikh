@@ -31,7 +31,7 @@ I enjoy building intelligent systems that combine **language understanding, visu
 - Multimodal AI
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ### Programming
 
