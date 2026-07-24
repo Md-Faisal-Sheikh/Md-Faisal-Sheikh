@@ -1,6 +1,6 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:3b82f6&text=Md.%20Faisal%20Sheikh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=CSE%20%40%20North%20South%20University%20%C2%B7%20Dhaka%2C%20Bangladesh&descAlignY=54&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:3b82f6&text=Md.%20Faisal%20Sheikh&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -29,16 +29,15 @@
 
 <br />
 
-## 👋 About Me
+## About Me
 
-I'm a Computer Science & Engineering student at **North South University**, currently building AI products at **Markopolo AI**. My work sits at the intersection of **language understanding** and **visual perception** — I like systems that read, see, and reason at the same time.
+I'm a Computer Science & Engineering student at **North South University**. My work sits at the intersection of **language understanding** and **visual perception** — I like systems that read, see, and reason at the same time.
 
 Most of what I build starts as a paper I couldn't stop thinking about.
 
 ```yaml
 name:      Md. Faisal Sheikh
 role:      CSE Student @ North South University
-work:      Markopolo AI INC
 location:  Dhaka, Bangladesh
 focus:     [ NLP, Computer Vision, Multimodal AI ]
 open_to:   [ research collaboration, open source, paper discussions ]
@@ -46,13 +45,13 @@ open_to:   [ research collaboration, open source, paper discussions ]
 
 <br />
 
-## 🔬 Research Interests
+## Research Interests
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Language**
+**Language**
 - Natural Language Processing
 - Large Language Models
 - Retrieval-Augmented Generation
@@ -60,7 +59,7 @@ open_to:   [ research collaboration, open source, paper discussions ]
 </td>
 <td width="50%" valign="top">
 
-**👁️ Vision & Beyond**
+**Vision & Beyond**
 - Computer Vision
 - Multimodal AI
 
@@ -70,7 +69,7 @@ open_to:   [ research collaboration, open source, paper discussions ]
 
 <br />
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -91,9 +90,6 @@ open_to:   [ research collaboration, open source, paper discussions ]
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
 
 <br /><br />
 
@@ -132,7 +128,7 @@ open_to:   [ research collaboration, open source, paper discussions ]
 
 <br />
 
-## 💭 Philosophy
+## Philosophy
 
 <div align="center">
 
@@ -142,7 +138,7 @@ open_to:   [ research collaboration, open source, paper discussions ]
 
 <br />
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
