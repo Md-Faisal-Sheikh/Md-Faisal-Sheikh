@@ -7,7 +7,7 @@
 <!-- ══════════════════════════ TAGLINE ══════════════════════════ -->
 
 <a href="https://github.com/Md-Faisal-Sheikh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=700&height=48&lines=Natural+Language+Processing;Computer+Vision+%26+Vision+Transformers;Multimodal+AI+%26+LLM+Architectures;Aspiring+AI+Researcher" alt="NLP · Computer Vision · Multimodal AI · Aspiring AI Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=700&height=48&lines=Natural+Language+Processing;Computer+Vision;Multimodal+AI+%26+LLM+Architectures;Aspiring+AI+Researcher" alt="NLP · Computer Vision · Multimodal AI · Aspiring AI Researcher" />
 </a>
 
 <br />
@@ -41,7 +41,6 @@ role:      CSE Student @ North South University
 work:      Markopolo AI INC
 location:  Dhaka, Bangladesh
 focus:     [ NLP, Computer Vision, Multimodal AI ]
-currently: Transformers · Vision Transformers · Self-Supervised Learning
 open_to:   [ research collaboration, open source, paper discussions ]
 ```
 
@@ -57,15 +56,12 @@ open_to:   [ research collaboration, open source, paper discussions ]
 - Natural Language Processing
 - Large Language Models
 - Retrieval-Augmented Generation
-- Attention & Transformer Architectures
 
 </td>
 <td width="50%" valign="top">
 
 **👁️ Vision & Beyond**
 - Computer Vision
-- Vision Transformers (ViT)
-- Self-Supervised Learning
 - Multimodal AI
 
 </td>
@@ -133,122 +129,6 @@ open_to:   [ research collaboration, open source, paper discussions ]
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode&perline=7" alt="Docker, Git, GitHub, GitHub Actions, Linux, Bash, VS Code" />
 
 </div>
-
-<br />
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🇧🇩 [BanglaRAG](https://github.com/Md-Faisal-Sheikh/BanglaRAG)
-Retrieval-augmented generation for **Bangla** — bringing grounded LLM answers to a low-resource language.
-
-`Python` `FastAPI` `ChromaDB` `Sentence-Transformers` `React`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [LLM Hallucination Detector](https://github.com/Md-Faisal-Sheikh/LLM-Hallucination-Detector-for-Code-Gen)
-Catching fabricated APIs and invalid logic in LLM-generated code before they ship.
-
-`Python` `FastAPI` `Static Analysis` `VS Code Extension`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ [SVHN: ResNet34 vs VGG16](https://github.com/Md-Faisal-Sheikh/SVHN_ResNet34_VGG16_Implementation-Comparison)
-Side-by-side implementation and benchmark of two CNN backbones on street-view digit recognition.
-
-`PyTorch` `torchvision` `scikit-learn` `Jupyter`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [TruthLens](https://github.com/Md-Faisal-Sheikh/TruthLens-AI-Trust-Misinformation-Engine)
-An AI trust & misinformation engine for surfacing unreliable claims.
-
-`TypeScript` `React` `Vite` `Tailwind` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [CodeCoach](https://github.com/Md-Faisal-Sheikh/CodeCoach)
-An AI assistant that coaches through programming problems instead of handing over answers.
-
-`Python` `FastAPI` `SQLite` `LLM`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [CSE495B — Papers & Models](https://github.com/Md-Faisal-Sheikh/CSE495B-Papers_and_Models)
-A running collection of research papers and model implementations from my deep learning coursework.
-
-`Research` `Deep Learning`
-
-</td>
-</tr>
-</table>
-
-<div align="center"><a href="https://github.com/Md-Faisal-Sheikh?tab=repositories">→ browse all repositories</a></div>
-
-<br />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- NOTE: github-readme-stats' official instance (github-readme-stats.vercel.app)
-     is frequently rate-limited. These point at a working mirror. For a permanent
-     fix, deploy your own: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-     then swap the hostname below. -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Faisal-Sheikh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Faisal-Sheikh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=1d4ed8&icon_color=1d4ed8&text_color=334155" height="170" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Faisal-Sheikh&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=c9d1d9" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Faisal-Sheikh&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1d4ed8&text_color=334155" height="170" alt="Top languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Md-Faisal-Sheikh&hide_border=true&background=00000000&border=00000000&stroke=1f2937&ring=3b82f6&fire=f59e0b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3b82f6&sideLabels=8b949e&dates=6e7681" />
-  <img src="https://streak-stats.demolab.com?user=Md-Faisal-Sheikh&hide_border=true&background=00000000&border=00000000&stroke=e5e7eb&ring=1d4ed8&fire=f59e0b&currStreakNum=1f2937&sideNums=1f2937&currStreakLabel=1d4ed8&sideLabels=475569&dates=94a3b8" height="170" alt="GitHub streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Md-Faisal-Sheikh&bg_color=00000000&color=c9d1d9&line=3b82f6&point=f59e0b&area=true&area_color=3b82f6&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Faisal-Sheikh&bg_color=00000000&color=334155&line=1d4ed8&point=f59e0b&area=true&area_color=3b82f6&hide_border=true" width="100%" alt="Contribution activity graph" />
-</picture>
-
-</div>
-
-<br />
-
-## 📖 Currently Learning
-
-<details>
-<summary><b>What's on my desk right now</b> — click to expand</summary>
-
-<br />
-
-| Area | What I'm working through |
-|:--|:--|
-| **Transformers** | Attention mechanisms, positional encodings, efficient attention variants |
-| **Vision Transformers** | Patch embeddings, ViT vs CNN inductive biases |
-| **Self-Supervised Learning** | Contrastive methods, masked modelling |
-| **Multimodal Models** | Vision-language alignment, cross-modal attention |
-| **LLM Architectures** | Scaling behaviour, fine-tuning, RAG pipelines |
-
-Plus a steady diet of **AI research papers** — always happy to discuss one.
-
-</details>
 
 <br />
 
